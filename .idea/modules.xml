@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quant-core/quant-core.iml" filepath="$PROJECT_DIR$/quant-core/quant-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxd-quant.iml" filepath="$PROJECT_DIR$/xxd-quant.iml" />
+    </modules>
+  </component>
+</project>

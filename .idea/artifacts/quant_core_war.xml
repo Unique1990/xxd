@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="quant-core:war">
+    <output-path>$PROJECT_DIR$/quant-core/target</output-path>
+    <root id="archive" name="com.xxd.quant.core.war">
+      <element id="artifact" artifact-name="quant-core:war exploded" />
+    </root>
+  </artifact>
+</component>
