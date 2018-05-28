@@ -11,6 +11,7 @@
     <modules>
         <module>quant-core</module>
     </modules>
+    <dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -22,7 +23,14 @@
             <artifactId>httpcore</artifactId>
             <version>4.4.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.3.1</version>
+        </dependency>
+
     </dependencies>
+    </dependencyManagement>
 
 
 </project>
